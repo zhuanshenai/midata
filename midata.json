@@ -524,7 +524,244 @@
 							]
 						}
 					]
-				},
+				},,
+				{
+					"title": "大屏长续航",
+					"banners": [
+						{
+							"href": "https://i8.mifile.cn/v1/a1/f5d0b3fb-511b-05e9-48bd-f596e5e31799!720x360.webp",
+							"introduction": "小米Max 2 大屏大电量",
+							"brief": "6.44″ 大屏，5300mAh大电量",
+							"current_price": "1399起",
+							"images": [
+								"https://i8.mifile.cn/v1/a1/5a483713-7b6f-b83d-0afe-ef5f4b5fc66b!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/19cd41e0-4721-deca-2204-4a07d606a6f6!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/4f2f5377-d590-40bc-082f-7356bb65a263!720x792.webp"
+							],
+							"sub_title": "小米Max 2 大屏大电量",
+							"sub_discount": "「最高直降200元，可享小米分期最高6期免息」",
+							"sub_breif": "6.44''大屏 / 5300mAh 充电宝级的大电量 / 大像素相机 / 轻薄全金属  / ​4GB 大内存 / 骁龙八核处理器",
+							"sub_price": 1599,
+							"sub_old_price": 1699,
+							"rate_percentage": 96.9,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01CeKlyyoWv/jVgatihFFgfE1A_90.jpg",
+									"name": "微风",
+									"time": "2018-03-06",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "身边有一个妹子，我很喜欢，工作也是我俩搭档，不知道怎么去追她。客服妹子给我出出主意，我给她也买一个小米玩。",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b5a890b5b9a71ac04cfaea278d89f90f.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/d75df573-2480-6a80-cf20-17673f1acdce.jpg?w=1080&h=1900&s=176.8",
+								"https://i8.mifile.cn/v1/a1/6a4e6f24-c7b2-8891-0d65-45158dbe2806.jpg?w=1080&h=1580&s=104",
+								"https://i8.mifile.cn/v1/a1/844d8616-acb7-69bc-e1e8-7afa3110edf4.jpg?w=1080&h=1522&s=123.8"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/6ade5c1b-0756-5906-e4fd-d5eaf4038530.jpg?w=1080&h=2032&s=89.4",
+								"https://i8.mifile.cn/v1/a1/61113eee-f106-52c2-c97c-b64d437c5f74.jpg?w=720&h=396&s=42.5",
+								"https://i8.mifile.cn/v1/a1/d0f2baa3-8fe5-f2ed-9e6d-dc2223c1bc5e.jpg?w=720&h=595&s=32.2"
+							]
+						}
+					],
+					"goods": [
+						{
+							"href": "https://i8.mifile.cn/v1/a1/11a2b2b9-8deb-5177-ac51-eb9c07b03c31!360x360.webp",
+							"name": "红米5",
+							"brief": "12MP旗舰相机，骁龙处理器",
+							"current_price": "749起",
+							"old_price": 799,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/7dc38112-bbf4-f3fa-db39-5f4674f9d0d4!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/7d040eee-5569-5074-864d-8c03f073e8c8!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/e3980743-9d5d-0a8a-9dab-0a37c8b98ef5!720x792.webp"
+							],
+							"sub_title": "红米5",
+							"sub_discount": "「16GB直降50元，32GB赠送壳膜」",
+							"sub_breif": "搭载了玩游戏超给力的高通骁龙处理器，后置12MP旗舰相机，前置柔光自拍，配备5.7英寸全面屏。",
+							"inner_price": 749,
+							"inner_old_price": 799,
+							"rate_percentage": 97.9,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/s010/p01hZZWTu4VP/aGgnvc1l3ZiVlw_90.jpg",
+									"name": "不知起什么好",
+									"time": "2018-02-27",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "给老弟买的，不好好学习，天天想玩手机。   嗯。当哥的教育不好啊。",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/18ad7b57cb3c054301621289d7117ba5.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/0bf25ac8670b6b52a8a5b3486175d859.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/b240a1ac-daad-b915-650e-dd1ff3dc274d.webp?w=1080&h=1912",
+								"https://i8.mifile.cn/v1/a1/56984789-6b41-1db4-d733-8e88b76d776a.webp?w=1080&h=1087",
+								"https://i8.mifile.cn/v1/a1/c2863275-3639-68dc-01cc-017af0fa71fc.webp?w=1080&h=1916"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/84598e4e-5d4e-46fa-52a4-2fa38b05ec7c.webp?w=1080&h=1349",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6cca4e894e086aa86292f75acd45c783.jpg?w=1080&h=2241",
+								"https://i8.mifile.cn/v1/a1/0204328e-5e47-56eb-ecce-99086e740bc4.webp?w=1080&h=1600"
+							]
+						},
+						{
+							"href": "https://i8.mifile.cn/v1/a1/e7853ea5-1260-6cb2-91ed-2c539a87db0a!360x360.webp",
+							"name": "红米5 Plus",
+							"brief": "全面屏，4000mAh大电量",
+							"current_price": "969起",
+							"old_price": 999,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/2af7bc21-ce55-b992-788e-c8c42792f772!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/d108bc58-3f1f-3a13-9213-ba2627e00a14!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/c66b6801-f13a-07c7-97b6-361ade5f4a32!720x792.webp"
+							],
+							"sub_title": "红米5 Plus",
+							"sub_discount": "「直降30元，可享小米分期最高6期免息」",
+							"sub_brief": "全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+							"inner_price": 969,
+							"inner_old_price": 999,
+							"rate_percentage": 97.4,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/s008/p01c5kui52v9/5DF34nYWL5sf2q_90.png",
+									"name": "赵栋",
+									"time": "2018-03-06",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "去年六月刚买的note4X，感觉这个屏幕大果断换了，玩吃鸡和王者一点不卡不发汤",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/5435cb49fe6bb2bea42b829cbab2de0d.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/b240a1ac-daad-b915-650e-dd1ff3dc274d.webp?w=1080&h=1912",
+								"https://i8.mifile.cn/v1/a1/56984789-6b41-1db4-d733-8e88b76d776a.webp?w=1080&h=1087",
+								"https://i8.mifile.cn/v1/a1/c2863275-3639-68dc-01cc-017af0fa71fc.webp?w=1080&h=1916"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/2416ceb1-7e8f-3675-5b2a-d9d6b22ffd4a.webp?w=1080&h=2202",
+								"https://i8.mifile.cn/v1/a1/b619c166-123a-ac03-4af5-15302be73bf9.webp?w=1080&h=1399",
+								"https://i8.mifile.cn/v1/a1/43791ee4-7826-d31e-5385-a05809c23f91.webp?w=1080&h=1886"
+							]
+						},
+						{
+							"href": "https://i8.mifile.cn/v1/a1/789e99e4-2355-1cbc-746e-f4d6478f8ed2!360x360.webp",
+							"name": "MIX 2 全陶瓷尊享版",
+							"brief": "Unibody 全陶瓷",
+							"current_price": 3899,
+							"old_price": 4699,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/2ec6acfd-6d81-0bbd-191c-830b91802564!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/ec11c5fb-df45-f78b-90a4-f6012d865830!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/e9aee983-70be-1d75-dd15-669d021f9db3!720x792.webp"
+							],
+							"sub_title": "小米MIX 2 全陶瓷尊享版",
+							"sub_discount": "「直降800元」",
+							"sub_brief": "搭载骁龙835旗舰处理器，8GB大内存，采用4轴光学防抖大像素相机，5.99″大屏，正面几乎全是屏幕。被全球著名博物馆收藏，荣获 2018 iF设计奖。",
+							"inner_price": 3899,
+							"inner_old_price": 4699,
+							"rate_percentage": 98.2,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01mIxyrtQx3/iGnD701C8ft6cy_90.jpg",
+									"name": "彬彬",
+									"time": "2018-03-06",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "MIX 2皓月白，是如今在我心中，最接近完美的手机。我都这么夸了，有没有客服妹纸撩一下人家☺",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/f58a70ac5c994246b6dd49d8899c6c04.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/6e0e77f8a31ea09a52d4cf6e4c621d5d.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/6d08668ede8ad32f13df553ab7a182e8.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/86a7f133e3df80fab690b3645495d999.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/3d86ba9d-5935-ccf7-4be9-4df10916334c.jpg?w=1080&h=1919&s=128.4",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c580424ff305584b2287c124bbae8fad.jpg?w=1080&h=1549",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/24c023e2edda60d019a4a4a5ae519884.jpg?w=1080&h=1640"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/dbd53e91-75eb-d9e9-0969-326a41435a34.jpg?w=1080&h=1287&s=148.5",
+								"https://i8.mifile.cn/v1/a1/0ba33fbe-65c9-424a-f1dc-ca219c89a224.jpg?w=1080&h=1623&s=123.5",
+								"https://i8.mifile.cn/v1/a1/869750dc-efd4-ae15-19cc-f83f68c491db.jpg?w=1080&h=2128&s=191.3"
+							],
+							"posters": [
+								"https://i8.mifile.cn/v1/a1/7b0304bb-e490-85f5-1e3a-089e51e62f16.webp?w=1080&h=715",
+								"https://i8.mifile.cn/v1/a1/95ac2334-d1d1-3add-1e38-0e6df02e7b57.webp?w=1080&h=785",
+								"https://i8.mifile.cn/v1/a1/35f74287-1359-7dfa-38c6-b9cda0c83fa8.webp?w=1080&h=718"
+							]
+						},
+						{
+							"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d68da7f79cc9800a34b1b48e1a439e44.jpg?thumb=1&w=360&h=360",
+							"name": "小米MIX 2  全面屏2.0",
+							"brief": "5.99″大屏，4轴光学防抖",
+							"current_price": "2899起",
+							"old_price": 3299,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/6ef534bb-6817-f6e2-192a-460e659819b8!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/2ec6acfd-6d81-0bbd-191c-830b91802564!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/59508b3c-fdb4-70b3-1364-d2260478617c!720x792.webp"
+							],
+							"sub_title": "小米MIX 2  全面屏2.0",
+							"sub_discount": "「8GB+128GB直降800元。6GB+128GB直降500元，6GB+64GB直降400元」",
+							"sub_brief": "全面屏2.0，5.99″大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段。",
+							"inner_price": 3899,
+							"inner_old_price": 4699,
+							"rate_percentage": 97.6,
+							"ratings": [
+								{
+									"avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/f790b51a76afd7b41522048fa779d69d.jpg",
+									"name": "くく这是猫，懵猫",
+									"time": "2018-03-10",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "上联：大米，小米，红米，黑米，各一台 下联：",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/bb2c441961e1d37360857d4c376cc5b2.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b22c83edeef5f51a546e24104c6bcf81.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/c5f6d8bb-dbdb-901f-38fc-4cf7aea1fb86.jpg?w=1080&h=1924&s=177.7",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c580424ff305584b2287c124bbae8fad.jpg?w=1080&h=1549",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/24c023e2edda60d019a4a4a5ae519884.jpg?w=1080&h=1640"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/dbd53e91-75eb-d9e9-0969-326a41435a34.jpg?w=1080&h=1287&s=148.5",
+								"https://i8.mifile.cn/v1/a1/0ba33fbe-65c9-424a-f1dc-ca219c89a224.jpg?w=1080&h=1623&s=123.5",
+								"https://i8.mifile.cn/v1/a1/869750dc-efd4-ae15-19cc-f83f68c491db.jpg?w=1080&h=2128&s=191.3"
+							],
+							"posters": [
+								"https://i8.mifile.cn/v1/a1/7b0304bb-e490-85f5-1e3a-089e51e62f16.webp?w=1080&h=715",
+								"https://i8.mifile.cn/v1/a1/95ac2334-d1d1-3add-1e38-0e6df02e7b57.webp?w=1080&h=785",
+								"https://i8.mifile.cn/v1/a1/35f74287-1359-7dfa-38c6-b9cda0c83fa8.webp?w=1080&h=718",
+								"https://i8.mifile.cn/v1/a1/6d5b88c3-ae29-d89f-f04c-88d7d0de4801.webp?w=1080&h=573"
+							]
+						}
+					]
+				}
 			]
 		}
 	}
